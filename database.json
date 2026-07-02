@@ -1,4 +1,8 @@
 {
-    "C:\\Users\\yo\\Desktop\\nuevo.txt": "3dc9aae309078c4cb7681132f7565b141aa1f91e64da206de1f3305def74bfcf",
-    "C:\\Users\\yo\\Desktop\\test.txt": "13660aaaca791ec160355669edb5921077d41f35b3db842ed4f6094388d4b5ca"
+    "C:\\Users\\yo\\Desktop\\test.txt": {
+        "hash": "0ff53170dabbe1fd113a7793d674517a3a57eaa3ec8a8afe7be3e61acf3cba69",
+        "size": 240,
+        "last_scan": "2026-07-02 23:11:48",
+        "algorithm": "SHA-256"
+    }
 }
