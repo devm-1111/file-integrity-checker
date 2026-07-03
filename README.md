@@ -70,9 +70,3 @@ Example:
 ## Disclaimer
 
 This project is intended for educational purposes and local file integrity verification.
-
-## Support
-
-If this project was useful to you and you'd like to support future development, you can support my work on Patreon.
-
-Patreon: https://patreon.com/ProHacks111?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
